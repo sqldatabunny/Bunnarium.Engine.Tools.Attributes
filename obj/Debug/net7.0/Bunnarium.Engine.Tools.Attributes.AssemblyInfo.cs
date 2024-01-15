@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Bunnarium.Engine.Tools.Attributes")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ed2bb92e8102eb1656ed8738471eac3cb2b83843")]
 [assembly: System.Reflection.AssemblyProductAttribute("Bunnarium.Engine.Tools.Attributes")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Bunnarium.Engine.Tools.Attributes")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
