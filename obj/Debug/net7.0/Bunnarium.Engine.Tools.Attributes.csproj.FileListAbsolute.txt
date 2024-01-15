@@ -1,0 +1,12 @@
+C:\Users\bunny\source\repos\sqldatabunny\Bunnarium\Bunnarium.Engine.Tools.Attributes\bin\Debug\net7.0\Bunnarium.Engine.Tools.Attributes.deps.json
+C:\Users\bunny\source\repos\sqldatabunny\Bunnarium\Bunnarium.Engine.Tools.Attributes\bin\Debug\net7.0\Bunnarium.Engine.Tools.Attributes.dll
+C:\Users\bunny\source\repos\sqldatabunny\Bunnarium\Bunnarium.Engine.Tools.Attributes\bin\Debug\net7.0\Bunnarium.Engine.Tools.Attributes.pdb
+C:\Users\bunny\source\repos\sqldatabunny\Bunnarium\Bunnarium.Engine.Tools.Attributes\obj\Debug\net7.0\Bunnarium.Engine.Tools.Attributes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bunny\source\repos\sqldatabunny\Bunnarium\Bunnarium.Engine.Tools.Attributes\obj\Debug\net7.0\Bunnarium.Engine.Tools.Attributes.AssemblyInfoInputs.cache
+C:\Users\bunny\source\repos\sqldatabunny\Bunnarium\Bunnarium.Engine.Tools.Attributes\obj\Debug\net7.0\Bunnarium.Engine.Tools.Attributes.AssemblyInfo.cs
+C:\Users\bunny\source\repos\sqldatabunny\Bunnarium\Bunnarium.Engine.Tools.Attributes\obj\Debug\net7.0\Bunnarium.Engine.Tools.Attributes.csproj.CoreCompileInputs.cache
+C:\Users\bunny\source\repos\sqldatabunny\Bunnarium\Bunnarium.Engine.Tools.Attributes\obj\Debug\net7.0\Bunnarium.Engine.Tools.Attributes.sourcelink.json
+C:\Users\bunny\source\repos\sqldatabunny\Bunnarium\Bunnarium.Engine.Tools.Attributes\obj\Debug\net7.0\Bunnarium.Engine.Tools.Attributes.dll
+C:\Users\bunny\source\repos\sqldatabunny\Bunnarium\Bunnarium.Engine.Tools.Attributes\obj\Debug\net7.0\refint\Bunnarium.Engine.Tools.Attributes.dll
+C:\Users\bunny\source\repos\sqldatabunny\Bunnarium\Bunnarium.Engine.Tools.Attributes\obj\Debug\net7.0\Bunnarium.Engine.Tools.Attributes.pdb
+C:\Users\bunny\source\repos\sqldatabunny\Bunnarium\Bunnarium.Engine.Tools.Attributes\obj\Debug\net7.0\ref\Bunnarium.Engine.Tools.Attributes.dll
