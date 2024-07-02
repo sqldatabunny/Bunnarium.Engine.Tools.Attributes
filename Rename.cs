@@ -1,4 +1,5 @@
-﻿namespace Bunnarium.Engine.Tools.Attributes {
+﻿using System;
+namespace Bunnarium.Engine.Tools.Attributes {
     [AttributeUsage(AttributeTargets.All)]
 	public class Rename : Attribute {
 		public string Description;
