@@ -1,5 +1,4 @@
-﻿using System;
-namespace Bunnarium.Engine.Tools.Attributes {
+﻿namespace Bunnarium.Engine.Tools.Attributes {
 
     [AttributeUsage(AttributeTargets.All)]
 	public class Citation : Attribute {
