@@ -7,6 +7,7 @@
 	  <EnablePreviewFeatures>true</EnablePreviewFeatures>
 	  <GenerateRequiresPreviewFeaturesAttribute>true</GenerateRequiresPreviewFeaturesAttribute>
 	  <LangVersion>preview</LangVersion>
+	  <WarningsAsErrors>CS8602,CS8604</WarningsAsErrors>
   </PropertyGroup>
 
 </Project>
