@@ -1,6 +1,6 @@
 ﻿namespace Bunnarium.Engine.Tools.Attributes {
 
-    [AttributeUsage(AttributeTargets.All)]
+    [AttributeUsage(AttributeTargets.All, AllowMultiple = true, Inherited = false)]
 	public class Citation : Attribute {
 		public string Description;
 		public Citation(string description) => Description = description;
